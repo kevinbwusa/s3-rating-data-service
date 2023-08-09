@@ -39,7 +39,7 @@ spec:
     spec:
       containers:
       - name: s3-rating-data-service
-        image: tsrana1/s3-rating-data-service:v2 
+        image: kevinbwusa1/s3-rating-data-service:v2 
         
         ports:
         - name: http
